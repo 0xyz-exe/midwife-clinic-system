@@ -12,6 +12,26 @@
   A comprehensive, bilingual (English/Indonesian) web-based management system designed specifically for midwife clinics. Built with Laravel 12 and modern web technologies to streamline patient management, transaction tracking, and administrative tasks.
 </p>
 
+
+Repository: https://github.com/0xyz-exe/midwife-clinic-system
+
+## Screenshots
+
+### Clinic Administration Dashboard & Analytics
+![Clinic Dashboard](docs/screenshots/01_dashboard.png)
+
+### Patient Medical Records & Antenatal Care (ANC)
+![Patient Records](docs/screenshots/02_patient_records.png)
+
+### Medical Services & Examination Records
+![Medical Examinations](docs/screenshots/03_examinations.png)
+
+### Medication & Pharmacy Inventory Tracking
+![Pharmacy Inventory](docs/screenshots/04_pharmacy_inventory.png)
+
+### Patient Invoicing & Billing Transactions
+![Billing & Transactions](docs/screenshots/05_billing_transactions.png)
+
 ## ✨ Features
 
 ### 🌍 Bilingual Support
